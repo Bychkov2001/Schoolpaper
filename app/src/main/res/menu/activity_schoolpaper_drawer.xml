@@ -5,19 +5,19 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_camera"
+            android:id="@+id/nav_news"
             android:icon="?android:attr/actionModePasteDrawable"
             android:title="Новости" />
         <item
-            android:id="@+id/nav_gallery"
+            android:id="@+id/nav_bells"
             android:icon="@android:drawable/ic_popup_reminder"
             android:title="Расписание звонков" />
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/nav_teachers"
             android:icon="@android:drawable/ic_menu_myplaces"
             android:title="Учителя" />
         <item
-            android:id="@+id/nav_manage"
+            android:id="@+id/nav_author"
             android:icon="@drawable/ic_menu_manage"
             android:title="Авторы" />
     </group>
